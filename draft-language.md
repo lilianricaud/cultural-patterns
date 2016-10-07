@@ -23,6 +23,8 @@ People gather by affinity in communities of action or practice around social obj
 
 Source: Finidori 2016
 
+see also : social objects for beginners: http://gapingvoid.com/blog/2007/12/31/social-objects-for-beginners/
+
 ### Feedback loops
 
 ### Symbolic power
