@@ -21,6 +21,9 @@ Language is one of the lenses that shape our experience.Language evokes or prese
 
 People gather by affinity in communities of action or practice around social objects, i.e. the ‘objects’ upon which they choose to focus their caring attention and efforts, the ‘causes’ they espouse, which may be of different natures (for example related to people, places, issues, knowledge, resources, processes, or desired outcomes 2 ). These social objects act as attractors and centers of shared visions, values, goals, and action. They are the nodes around which common experiences, languages, cultures, praxis, and the resulting knowledge and know-how are shaped. They provide the context and the content for the processes by which individual and collective identities are constructed, transformed, and differentiated in relation to each other and to the forces that hold people together, that which Husserl and Habermas called lifeworlds (Gregory, 1996). These clusters of cooperating agents and specialized agency constitute the living cognitive systems, which together form ‘society’ (Veitas & Weinbaum, 2015).
 
+The thing to remember is, Human beings do not socialize in a completely random way. There’s a tangible reason for us being together, that ties us together. Again, that reason is called the Social Object. Social Networks form around Social Objects, not the other way around.
+Another thing to remember is the world of Social Objects can have many layers. As with any complex creature, there can be more than one reason for us to be together.
+
 Source: Finidori 2016
 
 see also : social objects for beginners: http://gapingvoid.com/blog/2007/12/31/social-objects-for-beginners/
