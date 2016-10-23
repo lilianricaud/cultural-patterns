@@ -100,6 +100,15 @@ interacting components. Hacking is figuring out the internal impulse of things t
 them out. But the important question with the hacker approach is what are you aiming to
 achieve with this impulse.”
 
+### Misspelled words
+In certain cases freedom of expression or excessive politeness, certain words can be blocked or monitored electronically.
+
+A simple language hack to avoid this is to use slightly mispelled words to avoid censorship and/or detection.
+For example the combination will speak to a human, but will be hard to detect for an algorithm.
+
+Bull Shitake
+
+
 ### Idées
 
 Co-Creer langage de pattern dans une organisation pour visualiser la culture existante et les architectures invisibles.
