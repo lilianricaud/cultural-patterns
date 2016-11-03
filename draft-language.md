@@ -43,6 +43,10 @@ Paradigms = cultural systems, contains beliefs/assumptions
 
 epistemology
 
+### Ladder of inference
+It is our Beliefs which influence the Selected Data & Experience we pay attention to
+http://systems-thinking.org/loi/loi.htm
+
 ### Symbols
 
 ### Artifacts
